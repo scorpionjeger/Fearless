@@ -1,11 +1,11 @@
 import numpy as np
 import streamlit as st
-#import altair as alt
-#import pandas as pd
-#import numpy as np
-#from datetime import datetime,timedelta
-#from dotenv import load_dotenv
-#import dill
+import altair as alt
+import pandas as pd
+import numpy as np
+from datetime import datetime,timedelta
+from dotenv import load_dotenv
+import dill
 
 ###
 ###
@@ -37,7 +37,7 @@ if 0:
         hist = np.array(hist)
         #plt.plot(Binns - timedelta(hours=4), hist / 10, label=typesL[i])
         # plt.plot(Binns-timedelta(hours=4), hist/1000000, label=typesL[i])
-if 0:
+if 1:
     Binns=range(10)
     hist=[x**2 for x in range(10)]
     #recompiling a dataframe for plotting
