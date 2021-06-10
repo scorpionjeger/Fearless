@@ -1,8 +1,2 @@
 numpy
 streamlit
-altair
-pandas
-numpy
-datetime
-python-dotenv
-dill
