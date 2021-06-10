@@ -3,14 +3,13 @@ import streamlit as st
 import altair as alt
 import pandas as pd
 import numpy as np
-import os
 from datetime import datetime,timedelta
 from dotenv import load_dotenv
 import dill
 
 ###
 ###
-IDt=2
+
 # DatesCollection=dill.load(open(nstring+".pkd","rb"))
 types = ["Orig", "Reply", "Retweet"]
 types = ["Orig", "Retweet"]
@@ -40,7 +39,7 @@ for i, typeses in enumerate(types):
 
 #recompiling a dataframe for plotting
 pdDict={}
-pdDict["Binns"]=Binns - timedelta(hours=4)
+#pdDict["Binns"]=Binns - timedelta(hours=4)
 pdDict["hist"]=hist
 Rpd=pd.DataFrame.from_dict(pdDict)
 
