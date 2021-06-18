@@ -1,5 +1,6 @@
 # Fearless
 
+
 Project Description:
 This project concerns the advertising value of Taylor Swifts re-recording of her 2008 album Fearless.  Taylor has not granted any commercial licenses for 3 years despite getting dozens of license request per week, opting to re-record her music to have full control over her music and how it is used.   The success of her re-recording debut on April 9th 2021 shows that there is significant market value to her music.  However, measuring the consumer demographics is much more complicated now than it was in 2008 when fearless was first released.   In 2008 Taylor and Taylor’s fanbase were largely children, now 13 years later those consumers, Taylor, and Taylor’s image have significantly matured landing them in a significantly different economic group with essentially the same product. This capstone project concerns measuring the demographics and consumer interests of Taylors fan base to inform marketers of the value of using Taylor’s music for commercial projects.  For this capstone project I used twitter to investigate the consumer response of the fearless album release. 
 
@@ -44,3 +45,4 @@ Some noteworthy observations from this study are:
 1.	When looking at the category parent_motherhood, there is a distinct periodicity that can be seen with the Fourier transform.  This shows that mothers follow circadian rhythms most aligned with the US, that may be influenced by small children. 
 2.	When looking at the occupation and entertainment categories there is a high representation of writers and visual arts.  Showing perhaps an intelligence quotient for Taylor Swift fans. 
 3.	For those who have technical occupations the twitter usage seems to be focused on the weekend after the release, show perhaps a more responsible enjoyment of the albums release. 
+
