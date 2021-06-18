@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 import plotly.express as px
 from bokeh.plotting import figure
@@ -14,8 +13,6 @@ from scipy.fft import fft, fftfreq
 from scipy import interpolate
 from bokeh.palettes import Spectral11
 from bokeh.models import Range1d
-
-
 
 def PlotTrends2(plotDict,kwl,add_selectbox,smth):
 

@@ -6,6 +6,6 @@ numpy
 datetime
 python-dotenv
 dill
-bokeh=2.2
+bokeh==2.2
 plotly
 scipy
