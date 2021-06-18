@@ -4,7 +4,7 @@ from bokeh.plotting import figure
 from datetime import datetime,timedelta
 import numpy as np
 import dill
-from streamlit_vega_lite import vega_lite_component, altair_component
+#from streamlit_vega_lite import vega_lite_component, altair_component
 import streamlit.components.v1 as components
 import streamlit as st
 import altair as alt
